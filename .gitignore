@@ -1,0 +1,7 @@
+#ignore any folder starts with build
+
+build/
+examples/build/
+test/build/
+
+

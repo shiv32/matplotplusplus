@@ -1,0 +1,10 @@
+
+
+mkdir build
+cd build 
+cmake ..
+cmake --build .
+
+then go to build -> examples/appearance/labels/xlabel/
+
+./example_shiv_9
